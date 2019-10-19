@@ -1,0 +1,19 @@
+{
+  "twitch": {
+    "username": "PancakeLarry",
+    "oauth": "oauth:xxx",
+    "channels": [
+      "dreamhackcs"
+    ]
+  },
+  "rcon":{
+    "address": "192.168.1.99",
+    "port": 27015,
+    "password": "foo"
+  },
+  "chat": {
+    "interval": 2500,
+    "delay": 0,
+    "notify_subs": true
+  }
+}
